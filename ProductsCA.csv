@@ -1,0 +1,20 @@
+ProductID(PK),ProductName,Description,UnitPrice,SupplierID (FK),Stock
+67046531,Olympic Dumbell Handle,Professional standard adjustable Olympic Dumbbell,20,SP-0401,9
+68084229,Olympic Barbell,"Professional grade Olympic Bar, 7ft",40,SP-0401,31
+16590058,5 Kg Olympic Plate,"Black bumper plate, rubberized ",10,SP-0402,54
+10424152,15 Kg Olympic Plate,"Black bumper plate, rubberized ",30,SP-0402,16
+66993663,20 Kg Olympic Plate,"Black bumper plate, rubberized ",40,SP-0402,71
+51991836,25 Kg Olympic Plate,"Black bumper plate, rubberized ",50,SP-0402,11
+43419802,Clips (Pair),"This clip, don't slip",10,SP-0403,46
+504367067,Cable Machine,Multi-use cable machine. 8 different excercises,400,SP-0403,65
+17714016,Tricep Rope ,Rubber gripped tricep rope. 8000 thread,20,SP-0403,69
+369872864,Seated Row Handle,Ideal for seated rows,20,SP-0403,58
+3783023,Curl Bar,"Curls for the girls, baby",30,SP-0403,13
+41520388,Lat Pull Down Bar,Ideal for becoming a human-stingray hybrid,30,SP-0403,8
+37205291,5 Kg Dumbell,Rubber gripped weight with hexagon ends,10,SP-0404,63
+63824499,10 Kg Dumbell,Rubber gripped weight with hexagon ends,20,SP-0404,33
+504365504,15 Kg Dumbell,Rubber gripped weight with hexagon ends,30,SP-0404,59
+687889992,20 Kg Dumbell,Rubber gripped weight with hexagon ends,40,SP-0404,25
+21695203,Bench,Cushioned bench that will give leave you with no excuse for chest day,100,SP-0405,27
+606810104,Squat Pack,For when you've no gym partner but it's leg day and we never skip leg day,500,SP-0405,41
+53329948,Cross-Trainer,Some crossfit thing. IDK as I don't do Xfit,600,SP-0406,61
